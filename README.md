@@ -1,5 +1,5 @@
 # ArcticFox
-*[NFE Team](http://nfeteam.org) presents custom Firmware for Joyetech, Wismec and Eleaf battery mods*
+*[NFE Team](http://nfeteam.org) präsentiert euch eine alternative Firmware für Joyetech, Wismec and Eleaf Geräte*
 
 ![](http://i.imgur.com/JP4KC8A.png)
 ![](http://i.imgur.com/E1e7cs1.png)
@@ -8,9 +8,9 @@
 ![](http://i.imgur.com/TnqNYK1.png)
 ![](http://i.imgur.com/0XTV9xD.png)
 
-**Use [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) for [installing](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) firmware and configuring your device.**
+**Benutze die [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) um die Firmware zu [installieren](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) und um dein Gerät zu konfigurieren.**
 
-## List of supported devices:
+## Liste der derzeit unterstützten Geräte:
 ### Joyetech:
 * eVic VTC Mini
 * eVic VTC Dual
@@ -30,6 +30,7 @@
 * Reuleaux RX200S
 * Reuleaux RX2/3
 * Reuleaux RXmini
+* Reuleaux RX300 (*Derzeit nur über die nightly builds)
 * VF Lite
 * VF Stout
 * VF Classic
@@ -42,14 +43,17 @@
 * iStick TC100W
 * iStick Power 80W
 
-## Profiles
+## Profile
 The main difference is the profile based user interface, so to say, the DNA-style, and the larger focus on customization than original Joyetech firmware.
 Profile is the set of parameters of used atomizer, such as coil material, resistance, power and temperature values.
 The user have 8 profiles which can be edited with NFE Toolbox, and which can be assigned to his favourite atomizers.
 
+Der Hauptunterschied ist eine profilbasierte Einstellungen für Verdampfer (ähnlich der eScribe DNA Software von evolv). Der größere Fokus liegt allerdings darauf, die ursprüngliche Firmware von Joyetech auf die Bedürfnisse der Benutzer anzupassen.
+Bis zu 8 gleichzeitige Profile können dabei mit der NFE Toolbox, sehr komfortabel, am PC erstellt und zum Gerät übertragen werden. Jedes Profil kann dabei einem (Lieblings-)Verdampfer mit den entsprechend voreingestellten Werten (Drahtart, Vorglühfunktion, Leistungs (VW) oder Temperaturkontrollwerte (TC), usw...) zugeordnet werden.
+
 ![](http://i.imgur.com/UjtY7Ir.png)
 
-Profiles can be switched automatically, based on saved coil resistance, and in manual mode. All you need to use the automatic switch is to enable "Smart" mode, install atomizer and assign them to the desired profile.
+Die Profile können am Gerät über eine 3-Klick-Funktion, entsprechend dem verwendeten Verdampfer, einfach ausgewählt werden. Über die optional einstellbare "Intelligente Profilwahl" ("Smart") können die Verdampfer (basierend auf dem gespeicherten Wiederstand) auch automatisch ausgewählt werden.
 
 ![](http://i.imgur.com/fadryzQ.png)
 
